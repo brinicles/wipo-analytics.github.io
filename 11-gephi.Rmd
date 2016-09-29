@@ -272,6 +272,7 @@ Because the default size is portrait you will want to crop the image. For public
 
 Congratulations, you have now created your first Gephi network graph. 
 
+Yehey!
 ##Resources
 
 1.  [Gephi website](http://gephi.github.io/)
